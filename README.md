@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Griffin</h1>
 <h3 align="center">A U of U MSIS Student</h3>
 
-- 🔭 I’m currently working on **my personal portfolio website!**
+- 🔭 I’m currently working on **my Security+ Certification**
 
 - 🌱 I’m currently learning **Django**
 
